@@ -26,7 +26,7 @@ p{
 }
 .top-container{
     height: 500px;
-    width: 99%;
+    width: 100%;
     color:#4ab19a;
    
 }
@@ -44,7 +44,7 @@ p{
 }
 .menu{
     margin: 0px;
-    width: 99%;
+    width: 100%;
     height: 75px;
     position: sticky;
     bottom: 560px;
@@ -65,13 +65,13 @@ a{
 }
 .middle-container{
     height: 1800px;
-    width: 99%;
+    width: 100%;
     position: relative;
     left: 7px;
 }
 .blackpic{
     height: 600px;
-    width: 99%;
+    width: 100%;
     top: 100px;
     position: relative;
     right: 7px;
